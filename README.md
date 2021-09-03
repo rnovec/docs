@@ -28,7 +28,7 @@ What things you need to install the software and how to install them
 - Git
 - Python
 
-### Installing
+### Installing example
 
 ```bash
 npm install # yarn install
